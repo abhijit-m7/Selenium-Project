@@ -1,0 +1,175 @@
+08/08/2021 11:12:55 PM: INFO: 
+
+08/08/2021 11:12:55 PM: INFO: ====== WebDriver manager ======
+08/08/2021 11:12:55 PM: INFO: Current google-chrome version is 91.0.4472
+08/08/2021 11:12:55 PM: INFO: Get LATEST driver version for 91.0.4472
+08/08/2021 11:12:55 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/08/2021 11:12:57 PM: INFO: *************Test_001_Login*************
+08/08/2021 11:12:57 PM: INFO: *************Verifying Title*************
+08/08/2021 11:13:02 PM: INFO: *************Title Pass*************
+08/08/2021 11:13:02 PM: INFO: 
+
+08/08/2021 11:13:02 PM: INFO: ====== WebDriver manager ======
+08/08/2021 11:13:02 PM: INFO: Current google-chrome version is 91.0.4472
+08/08/2021 11:13:02 PM: INFO: Get LATEST driver version for 91.0.4472
+08/08/2021 11:13:02 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/08/2021 11:13:03 PM: INFO: *************Test_001_Login*************
+08/08/2021 11:13:03 PM: INFO: *************Login*************
+08/08/2021 11:13:15 PM: INFO: *************Login Pass*************
+08/09/2021 12:27:39 AM: INFO: 
+
+08/09/2021 12:27:39 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:27:42 AM: INFO: Current firefox version is 90.0.2
+08/09/2021 12:27:42 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:27:42 AM: INFO: There is no [linux64] geckodriver for browser 90.0.2 in cache
+08/09/2021 12:27:42 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:27:42 AM: INFO: Getting latest mozilla release info for v0.29.1
+08/09/2021 12:27:42 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:27:43 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:27:43 AM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-linux64.tar.gz
+08/09/2021 12:27:44 AM: INFO: Driver has been saved in cache [/home/abhijit/.wdm/drivers/geckodriver/linux64/v0.29.1]
+08/09/2021 12:28:02 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:28:02 AM: INFO: *************Verifying Title*************
+08/09/2021 12:28:07 AM: INFO: *************Title Pass*************
+08/09/2021 12:28:07 AM: INFO: 
+
+08/09/2021 12:28:07 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:28:08 AM: INFO: Current firefox version is 90.0.2
+08/09/2021 12:28:08 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:28:08 AM: INFO: Driver [/home/abhijit/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
+08/09/2021 12:28:15 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:28:15 AM: INFO: *************Login*************
+08/09/2021 12:28:29 AM: INFO: *************Login Pass*************
+08/09/2021 12:33:07 AM: INFO: 
+
+08/09/2021 12:33:07 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:33:07 AM: INFO: 
+
+08/09/2021 12:33:07 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:33:07 AM: INFO: Current firefox version is 90.0.2
+08/09/2021 12:33:07 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:33:07 AM: INFO: Current firefox version is 90.0.2
+08/09/2021 12:33:07 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:33:07 AM: INFO: Driver [/home/abhijit/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
+08/09/2021 12:33:07 AM: INFO: Driver [/home/abhijit/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
+08/09/2021 12:33:18 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:33:18 AM: INFO: *************Verifying Title*************
+08/09/2021 12:33:18 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:33:18 AM: INFO: *************Login*************
+08/09/2021 12:33:28 AM: INFO: *************Login Pass*************
+08/09/2021 12:34:29 AM: INFO: *************Title Pass*************
+08/09/2021 12:39:39 AM: INFO: 
+
+08/09/2021 12:39:39 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:39:39 AM: INFO: 
+
+08/09/2021 12:39:39 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:39:39 AM: INFO: Current firefox version is 90.0.2
+08/09/2021 12:39:39 AM: INFO: Current firefox version is 90.0.2
+08/09/2021 12:39:39 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:39:39 AM: INFO: Get LATEST driver version for 90.0.2
+08/09/2021 12:39:40 AM: INFO: Driver [/home/abhijit/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
+08/09/2021 12:39:40 AM: INFO: Driver [/home/abhijit/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
+08/09/2021 12:39:49 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:39:49 AM: INFO: *************Verifying Title*************
+08/09/2021 12:39:51 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:39:51 AM: INFO: *************Login*************
+08/09/2021 12:40:01 AM: INFO: *************Login Pass*************
+08/09/2021 12:48:55 AM: INFO: 
+
+08/09/2021 12:48:55 AM: INFO: 
+
+08/09/2021 12:48:55 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:48:55 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:48:56 AM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 12:48:56 AM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 12:48:56 AM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 12:48:56 AM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 12:48:56 AM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 12:48:56 AM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 12:48:56 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_linux64.zip
+08/09/2021 12:48:56 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_linux64.zip
+08/09/2021 12:48:57 AM: INFO: Driver has been saved in cache [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101]
+08/09/2021 12:48:58 AM: INFO: Driver has been saved in cache [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101]
+08/09/2021 12:49:01 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:49:01 AM: INFO: *************Login*************
+08/09/2021 12:49:01 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:49:01 AM: INFO: *************Verifying Title*************
+08/09/2021 12:49:07 AM: INFO: *************Title Pass*************
+08/09/2021 12:49:12 AM: INFO: *************Login Pass*************
+08/09/2021 12:54:08 AM: INFO: 
+
+08/09/2021 12:54:08 AM: INFO: 
+
+08/09/2021 12:54:08 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:54:08 AM: INFO: ====== WebDriver manager ======
+08/09/2021 12:54:08 AM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 12:54:08 AM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 12:54:08 AM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 12:54:08 AM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 12:54:08 AM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/09/2021 12:54:08 AM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/09/2021 12:54:10 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:54:10 AM: INFO: *************Verifying Title*************
+08/09/2021 12:54:10 AM: INFO: *************Test_001_Login*************
+08/09/2021 12:54:10 AM: INFO: *************Login*************
+08/09/2021 12:54:16 AM: INFO: *************Title Pass*************
+08/09/2021 12:54:21 AM: INFO: *************Login Pass*************
+08/09/2021 02:33:05 PM: INFO: 
+
+08/09/2021 02:33:05 PM: INFO: ====== WebDriver manager ======
+08/09/2021 02:33:06 PM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 02:33:06 PM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 02:33:06 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/09/2021 02:33:07 PM: INFO: *************Test_002_Login_DDT*************
+08/09/2021 02:33:07 PM: INFO: *************Login*************
+08/09/2021 02:33:34 PM: INFO: 
+
+08/09/2021 02:33:34 PM: INFO: ====== WebDriver manager ======
+08/09/2021 02:33:34 PM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 02:33:34 PM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 02:33:34 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/09/2021 02:33:37 PM: INFO: *************Test_002_Login_DDT*************
+08/09/2021 02:33:37 PM: INFO: *************Login*************
+08/09/2021 02:34:11 PM: INFO: 
+
+08/09/2021 02:34:11 PM: INFO: ====== WebDriver manager ======
+08/09/2021 02:34:11 PM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 02:34:11 PM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 02:34:11 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/09/2021 02:34:12 PM: INFO: *************Test_002_Login_DDT*************
+08/09/2021 02:34:12 PM: INFO: *************Login*************
+08/09/2021 02:35:04 PM: INFO: 
+
+08/09/2021 02:35:04 PM: INFO: ====== WebDriver manager ======
+08/09/2021 02:35:04 PM: INFO: Current google-chrome version is 91.0.4472
+08/09/2021 02:35:04 PM: INFO: Get LATEST driver version for 91.0.4472
+08/09/2021 02:35:04 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/09/2021 02:35:05 PM: INFO: *************Test_002_Login_DDT*************
+08/09/2021 02:35:05 PM: INFO: *************Login*************
+08/09/2021 02:35:20 PM: INFO: ***********Login Passed***********
+08/09/2021 02:35:29 PM: INFO: ***********Passed***********
+08/09/2021 02:35:35 PM: INFO: ***********Passed***********
+08/09/2021 02:35:40 PM: INFO: ***********Passed***********
+08/09/2021 02:35:40 PM: INFO: ***********Login DDT Passed***********
+08/09/2021 02:35:40 PM: INFO: ***********Login DDT Completed***********
+08/18/2021 09:00:59 PM: INFO: 
+
+08/18/2021 09:00:59 PM: INFO: ====== WebDriver manager ======
+08/18/2021 09:00:59 PM: INFO: Current google-chrome version is 91.0.4472
+08/18/2021 09:00:59 PM: INFO: Get LATEST driver version for 91.0.4472
+08/18/2021 09:00:59 PM: INFO: Get LATEST driver version for 91.0.4472
+08/18/2021 09:00:59 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_linux64.zip
+08/18/2021 09:01:01 PM: INFO: Driver has been saved in cache [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101]
+08/18/2021 09:01:09 PM: INFO: *********Test_003_AddCustomer*************
+08/18/2021 09:01:19 PM: INFO: ************* Login succesful **********
+08/18/2021 09:01:19 PM: INFO: ******* Starting Add Customer Test **********
+08/18/2021 09:29:45 PM: INFO: 
+
+08/18/2021 09:29:45 PM: INFO: ====== WebDriver manager ======
+08/18/2021 09:29:45 PM: INFO: Current google-chrome version is 91.0.4472
+08/18/2021 09:29:45 PM: INFO: Get LATEST driver version for 91.0.4472
+08/18/2021 09:29:45 PM: INFO: Driver [/home/abhijit/.wdm/drivers/chromedriver/linux64/91.0.4472.101/chromedriver] found in cache
+08/18/2021 09:29:46 PM: INFO: *************Test_001_Login*************
+08/18/2021 09:29:46 PM: INFO: *************Verifying Title*************
+08/18/2021 09:29:52 PM: INFO: *************Title Pass*************
